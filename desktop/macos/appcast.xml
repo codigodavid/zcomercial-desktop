@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>zComercial Desktop</title>
+    <link>https://updates.zcomercial.com/desktop/macos/appcast.xml</link>
+    <description>Actualizações da aplicação de secretária do zComercial.</description>
+    <language>pt</language>
+    <item>
+      <title>zComercial 0.1.1</title>
+      <description><![CDATA[Primeira versão para Mac: assinada com Developer ID e notarizada pela Apple.]]></description>
+      <pubDate>Fri, 04 Sep 2026 17:35:19 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/codigodavid/zcomercial-desktop/releases/tag/desktop-v0.1.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/codigodavid/zcomercial-desktop/releases/download/desktop-v0.1.1/zComercial-macOS-0.1.1.dmg"
+                 sparkle:version="221"
+                 sparkle:shortVersionString="0.1.1"
+                 sparkle:os="macos"
+                 sparkle:edSignature="0cQkrEVLbYXAuFeGUnNix5Tda9e9yVB91jlJZh12EtPKddj0VPLQxkE30fl2Gz8n/GVAVrqY/T2uLJrZwmpCCg=="
+                 length="28822841"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
