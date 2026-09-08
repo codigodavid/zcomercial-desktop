@@ -6,6 +6,19 @@
     <description>Actualizações da aplicação de secretária do zComercial.</description>
     <language>pt</language>
     <item>
+      <title>zComercial 0.2.0</title>
+      <description><![CDATA[Grelha de produtos com fotografia, vendas suspensas na barra lateral (F3), factura-recibo por omissão, catálogo lido do equipamento e sessão que não guarda o utilizador anterior.]]></description>
+      <pubDate>Tue, 08 Sep 2026 17:15:41 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/codigodavid/zcomercial-desktop/releases/tag/desktop-v0.2.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/codigodavid/zcomercial-desktop/releases/download/desktop-v0.2.0/zComercial-Windows-0.2.0-Setup.exe"
+                 sparkle:version="229"
+                 sparkle:shortVersionString="0.2.0"
+                 sparkle:os="windows"
+                 sparkle:dsaSignature="MDwCHDJELF9HJDpmaKwDw+o7XYTS4IJovnJlCiGibJsCHG/9JX5+ljJyO9KXs4BwbImHXDVOl4FnFGMLbVM="
+                 length="16088773"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>zComercial 0.1.1</title>
       <description><![CDATA[Página de descarga e ficheiro com nome fixo para o botão do site.]]></description>
       <pubDate>Fri, 04 Sep 2026 15:27:58 +0000</pubDate>
