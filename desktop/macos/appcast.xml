@@ -6,6 +6,19 @@
     <description>Actualizações da aplicação de secretária do zComercial.</description>
     <language>pt</language>
     <item>
+      <title>zComercial 0.2.0</title>
+      <description><![CDATA[Grelha de produtos com fotografia, vendas suspensas ao alcance, factura-recibo por omissão e catálogo lido do equipamento.]]></description>
+      <pubDate>Tue, 08 Sep 2026 18:46:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/codigodavid/zcomercial-desktop/releases/tag/desktop-v0.2.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/codigodavid/zcomercial-desktop/releases/download/desktop-v0.2.0/zComercial-macOS-0.2.0.dmg"
+                 sparkle:version="229"
+                 sparkle:shortVersionString="0.2.0"
+                 sparkle:os="macos"
+                 sparkle:edSignature="mHyiILmckPe8tZ/f4y92+qVPbwmmM5I2i79kBq2TdY+AEl7CBsAT4hI9QFM/Vrwd1Kt65rYlqHT9JdAaz4R/AA=="
+                 length="28823938"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>zComercial 0.1.1</title>
       <description><![CDATA[Primeira versão para Mac: assinada com Developer ID e notarizada pela Apple.]]></description>
       <pubDate>Fri, 04 Sep 2026 17:35:19 +0000</pubDate>
